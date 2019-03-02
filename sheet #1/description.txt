@@ -1,0 +1,3 @@
+MySpecialArrayUtlis.java including the solution of question 1
+fibonaci.java including the solution of question 2
+test.java reads the input and test all the function and print their output
