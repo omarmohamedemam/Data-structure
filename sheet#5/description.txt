@@ -1,3 +1,0 @@
-IArrayBased impelments the Iqueue in array base
-ILinkedBased impelments the Iqueue in linked list base
-test have an ui to test the both
